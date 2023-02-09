@@ -41,20 +41,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Lalindu01/Lalindu01/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Lalindu01/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p?context=spotify%3Aplaylist%3A37i9dQZF1EQnqst5TRi17F&si=DL0rirQCQj69TOuykgddCA?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
