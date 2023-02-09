@@ -1,4 +1,4 @@
-<h2 align="left">Wazzup 👋!         I'm Lalindu and I'm a Undergraduate in Software Engineering .</h2>
+<h2 align="left">Wazzup 👋!         Welcome to my profile I'm Lalindu .</h2>
 
 ###
 
