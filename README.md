@@ -1,4 +1,4 @@
-### Hi there 👋
+### wazzup 👋
 
 <!--
 **Lalindu01/Lalindu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
