@@ -1,9 +1,9 @@
- # Hi! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
+ # Yo Wazzup! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 
 **I am Llaindu, a student who always seeks an opportunity to apply the learning in the real world.**
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
-### Let's Connect:
+### Connect me via :
 [<img align="left" alt="lalindu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="lalindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -21,7 +21,6 @@
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
 <img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"/>
-<img align="left" alt="R" width="36px" src="https://www.r-project.org/logo/Rlogo.png"/>
 <img align="left" alt="Dart" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg.png"/>
 <br><br>
 
