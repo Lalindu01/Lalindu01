@@ -4,7 +4,7 @@
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Let's Connect:
-[<img align="left" alt="lalindu | Github" width="22px" src="https://www.google.com/search?q=github+icon&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjt1rHNpIr9AhVfgtgFHQRjCYkQ_AUoAXoECAEQAw&biw=1536&bih=696&dpr=1.25#imgrc=thYE3r73bm1jUM" />][GitHub]
+[<img align="left" alt="lalindu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="lalindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="lalindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
