@@ -1,4 +1,4 @@
- # Yo Wazzup! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
+# Yo Wazzup! 👻 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 
 **I am Lalindu, a student who always seeks an opportunity to apply the learning in the real world.**
 
