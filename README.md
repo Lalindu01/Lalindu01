@@ -36,7 +36,7 @@
   
 
 <!--- Links of Social Sites --->
-[LinkedIn]: lalindu-sankana-426793207
+[LinkedIn]: https://www.linkedin.com/in/lalindu-sankana-426793207/
 [Instagram]: https://www.instagram.com/lalindu__sankana/
 [GitHub]: https://github.com/Lalindu01
 [Twitter]: https://twitter.com/LalinduSankana
