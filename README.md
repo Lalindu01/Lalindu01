@@ -11,7 +11,7 @@
 <a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<img align="right" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo/blob/main/assets/image/My%20Web%20Profile%20%E2%80%93%20Figma%20-%20Google%20Chrome%207_24_2022%208_44_19%20PM%20(2).png" height="500" width="830">
+<img align="right" alt="myProfile" src="https://github.com/PiyumalNipuna60/My-Portfoliyo/blob/main/assets/image/My%20Web%20Profile%20%E2%80%93%20Figma%20-%20Google%20Chrome%207_24_2022%208_44_19%20PM%20(2).png" height="400" width="400">
 
 <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="piyumalnipuna60" /> </p>
 <br>
