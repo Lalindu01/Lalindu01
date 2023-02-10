@@ -4,12 +4,12 @@
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Let's Connect:
-[<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
-[<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
-[<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-<a href="mailto:anujbisht09@gmail.com">
+[<img align="left" alt="lalindu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="lalindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
+[<img align="left" alt="lalindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="lalindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -37,7 +37,6 @@
 
 <!--- Links of Social Sites --->
 [LinkedIn]: lalindu-sankana-426793207
-[Instagram]: https://www.instagram.com/bisht_anuj_/
-[GitHub]: https://github.com/bishtanuj/
-[Twitter]: https://twitter.com/bisht_anuj_/
-[GitLab]: https://gitlab.com/bishtanuj
+[Instagram]: https://www.instagram.com/lalindu__sankana/
+[GitHub]: https://github.com/Lalindu01
+[Twitter]: https://twitter.com/LalinduSankana
