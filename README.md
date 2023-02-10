@@ -28,7 +28,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Lalindu01.svg?style=social&label=followers&maxAge=2592000)](https://github.com/Lalindu01?tab=followers)
 
-<h1 align="center">Github Stats</h1>
+<h1 align="center">Github Status</h1>
   <div align="center" >
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalindu01&layout=compact"> <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalindu01&)">
   </div>
