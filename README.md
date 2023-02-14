@@ -7,6 +7,8 @@
 [<img align="left" alt="lalindu | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 [<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
 [<img align="left" alt="lalindu | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
+[<img align="left" alt="lalindu | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][Facebook]
+
 <a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -37,3 +39,4 @@
 [LinkedIn]: https://www.linkedin.com/in/lalindu-sankana-426793207/
 [Instagram]: https://www.instagram.com/lalindu__sankana/
 [Twitter]: https://twitter.com/LalinduSankana
+[Facebook]: https://www.facebook.com/lalindu.sankana.3/
