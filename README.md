@@ -4,10 +4,9 @@
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Connect me via :
-[<img align="left" alt="lalindu | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
-[<img align="left" alt="lalindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="lalindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="lalindu | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
+[<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
+[<img align="left" alt="lalindu | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" />][Twitter]
 <a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -37,5 +36,4 @@
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/lalindu-sankana-426793207/
 [Instagram]: https://www.instagram.com/lalindu__sankana/
-[GitHub]: https://github.com/Lalindu01
 [Twitter]: https://twitter.com/LalinduSankana
