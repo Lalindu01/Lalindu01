@@ -5,7 +5,7 @@
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Connect me via :
 
-[<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
+[<img align="left" alt="lalindu | LinkedIn" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
 [<img align="left" alt="lalindu | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
 [<img align="left" alt="lalindu | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][Facebook]
 [<img align="left" alt="lalindu | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
