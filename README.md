@@ -6,9 +6,9 @@
 ### Connect me via :
 
 [<img align="left" alt="lalindu | LinkedIn" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
-[<img align="left" alt="lalindu | Twitter" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
-[<img align="left" alt="lalindu | Facebook" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][Facebook]
-[<img align="left" alt="lalindu | Instagram" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
+[<img align="left" alt="lalindu | Twitter" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
+[<img align="left" alt="lalindu | Facebook" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][Facebook]
+[<img align="left" alt="lalindu | Instagram" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 
 <a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
