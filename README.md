@@ -6,7 +6,7 @@
 ### Connect me via :
 [<img align="left" alt="lalindu | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 [<img align="left" alt="lalindu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
-[<img align="left" alt="lalindu | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" />][Twitter]
+[<img align="left" alt="lalindu | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
 <a href="mailto:lalindusankana66@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
