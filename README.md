@@ -14,7 +14,7 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<img align="right" alt="myProfile" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/" height="200" width="500">
+<img align="right" alt="myProfile" src="https://cdn.streamelements.com/uploads/ae1497f1-a5d8-4d61-ab39-8e278d51c7f6.gif" height="200" width="500">
 <br>
 
 ### I'm Currently Working With:
