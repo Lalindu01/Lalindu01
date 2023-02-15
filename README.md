@@ -5,6 +5,8 @@
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Connect me via :
 
+<img align="right" alt="myProfile" src="https://th.bing.com/th/id/R.44971c0d23aa16326fdcde4414dfab12?rik=UdvGuB%2fHvZnurA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2f4TmxH7ZMn1aYE%2fgiphy.gif&ehk=%2b%2f7Ki0RIMf5Z195%2fOeIf%2fNbgFeME6qufrJPrNw%2fgKJE%3d&risl=&pid=ImgRaw&r=0" height="200" width="500">
+
 [<img align="left" alt="lalindu | LinkedIn" width="24px" height="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][LinkedIn]
 [<img align="left" alt="lalindu | Twitter" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
 [<img align="left" alt="lalindu | Facebook" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][Facebook]
@@ -14,7 +16,6 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<img align="right" alt="myProfile" src="https://th.bing.com/th/id/R.44971c0d23aa16326fdcde4414dfab12?rik=UdvGuB%2fHvZnurA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2f4TmxH7ZMn1aYE%2fgiphy.gif&ehk=%2b%2f7Ki0RIMf5Z195%2fOeIf%2fNbgFeME6qufrJPrNw%2fgKJE%3d&risl=&pid=ImgRaw&r=0" height="200" width="500">
 <br>
 
 ### I'm Currently Working With:
