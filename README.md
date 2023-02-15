@@ -31,7 +31,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Lalindu01&color=orange)
 
-[![GitHub followers](https://img.shields.io/github/followers/Lalindu01.svg?style=social&label=followers&maxAge=2592000)](https://github.com/Lalindu01?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Lalindu01.svg?style=social&label=followers&maxAge=2592000&color=orange)](https://github.com/Lalindu01?tab=followers)
 
 <h1 align="center">Github Status</h1>
   <div align="center" >
