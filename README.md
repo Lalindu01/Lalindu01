@@ -14,7 +14,7 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<img align="right" alt="myProfile" src="https://media.tenor.com/images/def0b505caff9c9160c22dabc987d4ca/tenor.gif" height="200" width="500">
+<img align="right" alt="myProfile" src="https://media1.tenor.com/images/123df3be1acfe3306b91e9c3dd6f9438/tenor.gif?itemid=5322596" height="200" width="500">
 <br>
 
 ### I'm Currently Working With:
