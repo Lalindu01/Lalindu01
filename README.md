@@ -13,7 +13,7 @@
 [<img align="left" alt="lalindu | Instagram" width="24px" height="26" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 
 <a href="mailto:lalindusankana66@gmail.com">
-  <img align="left" width="28px" height="24" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
+  <img align="left" width="30px" height="24" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
 </a>
 
 <br>
