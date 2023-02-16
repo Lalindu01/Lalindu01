@@ -35,7 +35,7 @@
 
 <h1 align="center">Github Status</h1>
   <div align="center" >
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalindu01&layout=compact"> <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalindu01&color=orange)">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalindu01&layout=compact"> <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalindu01&)">
   </div>
   
 
